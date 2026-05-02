@@ -13,7 +13,7 @@ export default function GalleryPage() {
         <span className="eyebrow">Gallery · {PHOTOS.length} photographs</span>
         <h1 className="h1">A running journal in pictures.</h1>
         <p className="lede" style={{ marginTop: 20 }}>
-          Aesthethics that bring peace. Pictures that inspire. Capturing the moment and the
+          Aesthetics that bring peace. Pictures that inspire. Capturing the moment and the
           emotions.
         </p>
       </section>

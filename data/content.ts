@@ -16,7 +16,7 @@ export const PROFILE = {
 
 export const CURRENTLY = [
   "climbing at the local gym",
-  "reading the courage to be disliked",
+  "reading The Courage to Be Disliked",
   "learning to crochet",
   "enjoying the scenery",
   "playing pickleball",
